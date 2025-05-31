@@ -1,18 +1,86 @@
-# 💫 About Me:
-Hi 👋, I'm Devan<br>A passionate Full stack developer from Chennai<br><br>🚀 MERN Stack Developer | Problem Solver | Continuous Learner<br><br>Passionate MERN stack developer with a knack for transforming innovative ideas into robust, scalable, and user-friendly web applications. 🌐 Skilled in MongoDB, Express.js, React.js, and Node.js, I specialize in delivering end-to-end solutions that marry seamless user experiences with efficient back-end functionalities.<br><br>🛠️ Tech Stack:<br><br>MongoDB | Express.js | React.js | Node.js | Next.js<br>HTML5 | CSS3 | JavaScript (ES6+)<br>RESTful API design | <br>Git | GitHub | <br><br><br>📚 Continuous Learning:<br>Dedicated to staying ahead in the ever-evolving tech landscape. Currently exploring Prisma ,Linux to enhance development skills.
+<h1 align="center">Hey there 👋, I'm Devan</h1>
+<h3 align="center">🧠 Full Stack Developer | SvelteKit Sorcerer | Prisma Power User</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devan74/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devan74&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devan74&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devan74&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=SvelteKit+Craftsman;MERN+Stack+Wizard;Prisma+ORM+Pro;Loves+tRPC+Client+Magic" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devan74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+🎯 Passionate about building scalable full stack web apps  
+⚡ I turn caffeine into code and bugs into features  
+💼 Crafting clean, efficient, and delightful user experiences  
+📚 Currently diving into: `Svelte`, `SvelteKit`, `Linux`, `MSSQL`, `Kubernetes`, and `Nginx`  
+🧠 Believer in clean architecture, typed code, and dev memes  
+
+---
+
+### 🧠 Tech Stack:
+
+**Languages & Markup:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+**Frontend:**  
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+**Backend & Database:**  
+![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=flat&logo=trpc&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devan74&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devan74&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devan74&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔗 Find Me On:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/devan74/)
+- 👨‍💻 [HackerRank](https://www.hackerrank.com/profile/devan74)
+- 🧠 [LeetCode](https://leetcode.com/u/raghavadeva1903/)
+- 📬 raghavadeva1903@gmail.com
+
+---
+
+### ⚡ Fun Fact:
+
+> When I’m not coding, I’m either debugging the universe 🌌 or convincing PostgreSQL to cooperate 🐘💻
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=devan74&icon=5&color=1)](https://visitcount.itsvg.in)
