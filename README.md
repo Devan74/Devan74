@@ -74,10 +74,10 @@
 
 ### 🔗 Find Me On:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devan74/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devan74)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/raghavadeva1903/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghavadeva1903@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devan74/)
+- 👨‍💻 [HackerRank](https://www.hackerrank.com/profile/devan74)
+- 🧠 [LeetCode](https://leetcode.com/u/raghavadeva1903/)
+- 📬 raghavadeva1903@gmail.com
 
 ---
 
