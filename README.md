@@ -1,9 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Devan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Curious Coder from Chennai 🇮🇳</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Wizard;Open+Source+Enthusiast;Always+Learning+Something+Cool+👨‍💻" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=devan74&icon=5&color=1" alt="Profile view count" />
+  </a>
 </p>
 
 ---
@@ -14,6 +19,7 @@
 💼 Crafting clean, efficient, and delightful user experiences  
 📚 Currently diving into: `Svelte`, `SvelteKit`, `Linux`, `MSSQL`, `Kubernetes`, and `Nginx`  
 🧠 Believer in clean architecture, typed code, and dev memes  
+🔍 I'll be Probably exploring Random Tech Stuffs
 
 ---
 
@@ -54,7 +60,6 @@
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
-
 ---
 
 ### 📈 GitHub Stats:
@@ -80,14 +85,10 @@
 
 ### ⚡ Fun Fact:
 
->When I’m not coding, I’m probably stuck in a deep conversation with useEffect or trying to convince PostgreSQL that it’s part of the MERN stack 🐘💻. Occasionally, I debug the universe with console.logs from another dimension 🌌🛠️.
+> When I’m not coding, I’m probably stuck in a deep conversation with useEffect or trying to convince PostgreSQL that it’s part of the MERN stack 🐘💻. Occasionally, I debug the universe with console.logs from another dimension 🌌🛠️.
 
 ---
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder" />
 </p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=devan74&icon=5&color=1)](https://visitcount.itsvg.in)
