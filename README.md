@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Devan</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Maniac | Curious Coder from Chennai 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | Curious Coder from Chennai 🇮🇳</h3>
 
 
 <p align="center">
@@ -35,8 +35,8 @@
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=flat&logo=trpc&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
@@ -45,11 +45,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
 
 ---
@@ -77,7 +80,7 @@
 
 ### ⚡ Fun Fact:
 
-> When I’m not coding, I’m either debugging the universe 🌌 or convincing PostgreSQL to cooperate 🐘💻
+>When I’m not coding, I’m probably stuck in a deep conversation with useEffect or trying to convince PostgreSQL that it’s part of the MERN stack 🐘💻. Occasionally, I debug the universe with console.logs from another dimension 🌌🛠️.
 
 ---
 
