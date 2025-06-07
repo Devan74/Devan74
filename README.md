@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Devan</h1>
-<h3 align="center">🚀 Full Stack Developer | Curious Coder from Chennai 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Curious Coder from Chennai 🇮🇳</h3>
 
 
 <p align="center">
