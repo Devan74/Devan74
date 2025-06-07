@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=devan74&icon=5&color=1" alt="Profile view count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=devan74&label=Profile%20views&color=0e75b6&style=flat" alt="devan74" />
 </p>
 
 ---
