@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Devan</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Curious Coder from Chennai 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer & Curious Coder from Chennai 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Wizard;Open+Source+Enthusiast;Always+Learning+Something+Cool+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Full+Stack+Web+Wizard;Open+Source+Enthusiast;Always+Learning+Something+Cool+👨‍💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
